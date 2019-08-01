@@ -281,6 +281,8 @@ gdtdesc:
 行并调试bootloader&OS，
 
     1. bootloader如何读取硬盘扇区的？
+    
+     
 
     2. bootloader是如何加载ELF格式的OS？
 
